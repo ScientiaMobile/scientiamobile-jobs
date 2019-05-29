@@ -1,8 +1,7 @@
-# Coding Exercises for candidates
+# Welcome! Here you will find Code Exercises for candidates
 
-https://github.com/ScientiaMobile/scientiamobile-jobs/wiki/Welcome
 
-## front-end-developer
+[front-end-developer](https://github.com/ScientiaMobile/scientiamobile-jobs/wiki/Welcome)
 
-## full-stack-developer
+[full-stack-developer](https://github.com/ScientiaMobile/scientiamobile-jobs/wiki/Welcome)
 
