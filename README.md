@@ -1,5 +1,6 @@
-# Welcome! Here you will find Code Exercises for candidates
+# Welcome! 
 
+### Here, please find our Code Exercises
 
 [front-end-developer](https://github.com/ScientiaMobile/scientiamobile-jobs/wiki/Welcome)
 
