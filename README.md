@@ -8,4 +8,4 @@ Pease follow the links to find the proper code exercise:
 * [Front End Developer](https://github.com/ScientiaMobile/front-end-developer/wiki/Code-Exercise)
 
 **Please Note:**
-- If you have any questions along the way as you complete the Code Eercise, please [contact us](mailto:dev-jobs@scientiamobile.com?subject=Code-Exercise-Question) about it
+- If you have any questions along the way as you complete the Code Exercise, please [contact us](mailto:dev-jobs@scientiamobile.com?subject=Code-Exercise-Question) about it
