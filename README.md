@@ -2,10 +2,10 @@
 
 Pease follow the links to find the proper code exercise:
 
-* [Full Stack Developer](https://github.com/ScientiaMobile/scientiamobile-jobs/wiki/Full-Stack-Developer)
+* [Full Stack Developer](https://github.com/ScientiaMobile/scientiamobile-jobs/wiki/Code-Exercise)
 
 
-* [Front End Developer](https://github.com/ScientiaMobile/front-end-developer/wiki/Front-End-Developer-Code-Exercise)
+* [Front End Developer](https://github.com/ScientiaMobile/front-end-developer/wiki/Code-Exercise)
 
 **Please Note:**
 - In this example (above) the brand_name capability will not 
