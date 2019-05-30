@@ -1,6 +1,6 @@
-# **Welcome to ScientiaMobile!**
+# **Welcome to the ScientiaMobile Jobs Repo!**
 
-Pease follow the links to find the proper code exercise:
+Please follow the links to find the proper code exercise:
 
 * [Full Stack Developer](https://github.com/ScientiaMobile/scientiamobile-jobs/wiki/Code-Exercise)
 
