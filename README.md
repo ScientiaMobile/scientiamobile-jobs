@@ -14,14 +14,14 @@ Please follow the links to find the proper code exercise:
 **Some URLs to get to know some of our products and applications:**
 
 - Our company portal
-  - https://www.scientiamobile.com
+  - https://www.scientiamobile.com/
 
 - WURFL
-  - https://tools.scientiamobile.com
-  - www.scientiamobile.com/what-is-device-detection/ 
-  - www.devicedetection.com 
-  - https://web.wurfl.io
+  - https://tools.scientiamobile.com/
+  - https://www.scientiamobile.com/what-is-device-detection/ 
+  - https://www.devicedetection.com/ 
+  - https://web.wurfl.io/
 
 - ImageEngine
-  - www.imageengine.io
-  - https://demo.imgeng.in 
+  - https://www.imageengine.io/
+  - https://demo.imgeng.in/
