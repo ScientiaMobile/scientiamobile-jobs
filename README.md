@@ -23,5 +23,5 @@ Please follow the links to find the proper code exercise:
   - https://web.wurfl.io/
 
 - ImageEngine
-  - https://www.imageengine.io/
+  - https://imageengine.io/
   - https://demo.imgeng.in/
